@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@layer theme {
+  :root {
+    --color-primary: #0056b3;
+    --color-secondary: #ffc107;
+  }
+}

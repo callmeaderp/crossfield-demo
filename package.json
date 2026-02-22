@@ -1,0 +1,23 @@
+{
+  "name": "crossfield-demo",
+  "version": "1.0.0",
+  "description": "Demo site for Crossfield Heating & Cooling",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "Joshua Beldue",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.0.0",
+    "autoprefixer": "^10.4.24",
+    "gh-pages": "^6.3.0",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.2.0",
+    "vite": "^6.2.0"
+  }
+}
